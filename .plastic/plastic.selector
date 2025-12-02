@@ -1,4 +1,0 @@
-repository "Zadanie1/VR-Zajecia@1375300476780@cloud"
-  path "/"
-    br "/main"
-    co "/main"
